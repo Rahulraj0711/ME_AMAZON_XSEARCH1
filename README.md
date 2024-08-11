@@ -9,7 +9,7 @@ This project involves automating the search feature of Amazon store and validati
 ## Automating Amazon!
 ### Scope of work
 Automated the following test cases:
-  1. Verify the URL of the homepage
+  1. Verify the URL of the homepage (https://www.amazon.in/)
   2. Verify the search functionality
   3. Verify the navigation menu
 
