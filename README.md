@@ -2,6 +2,7 @@
 
 ## Overview
 This project involves automating the search feature of Amazon store and validating the resultant data. Additionally menu features and footers are also being validated.
+
 ![amazon](https://github.com/user-attachments/assets/b72cd3aa-606b-4823-8501-fa9a95c0ee2b)
 
 
